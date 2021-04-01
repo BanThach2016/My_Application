@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity {
 
         // First
         EditText edtUser;
+        EditText edtPass;
 
         // Second
         TextView txt;
